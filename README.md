@@ -45,7 +45,7 @@ style="border-radius:50%; border:7px solid #00e5ff; box-shadow:0 0 40px #8a2be2,
 
 ## 🤖 OFFICIAL BOT INTRO
 
-<img src="https://i.imgur.com/zeQYRjs.jpeg" width="350"
+<img src=" https://i.imgur.com/qCamZxN.jpeg" width="350"
 style="border-radius:25px; border:6px solid #00c6ff; box-shadow:0 0 35px #8a2be2,0 0 50px #00e5ff;" />
 
 <p align="center">
