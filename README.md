@@ -9,7 +9,7 @@
 <br>
 
 <!-- Owner Image With Glow Animation -->
-<img src="https://i.imgur.com/s5WFu96.jpeg" width="210"
+<img src="https:Image https://i.imgur.com/L95EUN8.png" width="210"
 style="border-radius:50%; border:7px solid #00e5ff; box-shadow:0 0 40px #8a2be2,0 0 60px #00c6ff; animation: pulse 2s infinite;" />
 
 <h1>
