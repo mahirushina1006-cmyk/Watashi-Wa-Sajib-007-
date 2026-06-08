@@ -13,11 +13,11 @@ style="border-radius:50%; border:7px solid #ffb6c1; box-shadow:0 0 40px #ff69b4,
 👑 E'wr Sajib x007x 🐥
 </h1>
 
-<p align="center" style="color:#fecfef; font-size: 16px;">
-🎀 <b>Age:</b> 19+ 🥱 | <b>From:</b> Jessore, Benapole 🍃<br>
-🎓 <b>Education:</b> Bangladesh Open University (Class 10) 🙂 🙌🏻<br>
-🎮 <b>Hobbies:</b> Singing, Gaming, Anime Watching & Chatting 🍂<br>
-🕌 <b>Religion:</b> Islam 🌸✨ | <b>Relationship:</b> Single 🐱
+<p align="center">
+  <code>🎀 Age: 19+ 🥱 | From: Jessore, Benapole 🍃</code><br><br>
+  <code>🎓 Education: Bangladesh Open University (Class 10) 🙂 🙌🏻</code><br><br>
+  <code>🎮 Hobbies: Singing, Gaming, Anime Watching & Chatting 🍂</code><br><br>
+  <code>🕌 Religion: Islam 🌸✨ | Relationship: Single 🐱</code>
 </p>
 
 <p align="center">
@@ -54,7 +54,17 @@ style="border-radius:25px; border:6px solid #ffb6c1; box-shadow:0 0 35px #ff69b4
 
 ## ✨ About Waguri Chan Chat Bot v1 🍃
 
-🎀 **Highly Advanced Messenger Bot** 🌀 **Intelligent Auto-Restart & Crash Recovery** 🐥 **Advanced Command Ecosystem** 🍂 **Strict Role-Based Permissions (UID Mapped)** 🍃 **Ultra-Fast & Lightweight on Node.js v20+** ✨ **Global Multi-Language Support** 🎀 **Secure Cookie Authentication via Account.txt** ---
+<p align="center">
+  <code>🎀 Highly Advanced Messenger Bot 🎀</code><br><br>
+  <code>🌀 Intelligent Auto-Restart & Crash Recovery 🌀</code><br><br>
+  <code>🐥 Advanced Command Ecosystem 🐥</code><br><br>
+  <code>🍂 Strict Role-Based Permissions (UID Mapped) 🍂</code><br><br>
+  <code>🍃 Ultra-Fast & Lightweight on Node.js v20+ 🍃</code><br><br>
+  <code>✨ Global Multi-Language Support ✨</code><br><br>
+  <code>🎀 Secure Cookie Authentication via Account.txt 🎀</code>
+</p>
+
+---
 
 ## 🚀 Deploy System 🌀
 
